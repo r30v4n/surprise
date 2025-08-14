@@ -1,0 +1,14 @@
+body {
+    background-image: 
+        url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><text x='0' y='32' font-size='32'>%F0%9F%8C%9F</text></svg>"),
+        linear-gradient(to right, #1a2a6c, #b21f1f, #fdbb2d);
+    background-repeat: no-repeat, repeat;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 2px 2px 5px black;
+}
